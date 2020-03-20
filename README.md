@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook to visualize the corona cases either
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/fawohlsc/corona-cases)
 
 - Don't forget to configure the Environment in the Azure Notebook
-![Azure Notebook Environment](AzureNotebook_Environment2.png)
+![Azure Notebook Environment](AzureNotebook_Environment.png)
 
 ## Launch locally
 - Follow these steps to launch this Jupyter notebook on your machine
