@@ -1,14 +1,14 @@
 # Corona cases
 This repository contains a Jupyter notebook to visualize the corona cases either per country of worldwide. The underlying data is provided by the [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/). 
 
-![Bar Chart](img/bar_chart.png)
+![Bar Chart](assets/bar_chart.png)
 
 ## Launch Azure Notebook
 - Click this button to launch this Jupyter notebook within an Azure Notebook<br/>
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/fawohlsc/corona-cases)
 
 - Don't forget to configure the Environment in the Azure Notebook
-![Azure Notebook Environment](img/notebook_enviroment.png)
+![Azure Notebook Environment](assets/notebook_enviroment.png)
 
 ## Launch locally
 - Follow these steps to launch this Jupyter notebook on your machine
