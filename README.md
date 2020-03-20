@@ -4,6 +4,7 @@ This repository contains a Jupyter notebook to visualize the corona cases either
 ![Bar Chart](img/bar_chart.png)
 
 ## Launch Azure Notebook
+- Click this button to launch this Jupyter notebook within an Azure Notebook
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/fawohlsc/corona-cases)
 
 - Don't forget to configure the Environment in the Azure Notebook
