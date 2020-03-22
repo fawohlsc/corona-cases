@@ -1,5 +1,5 @@
 # Corona cases
-This repository contains a Jupyter notebook to visualize the corona cases (COVID-19) either per country of worldwide. The underlying data is provided by the [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/). 
+This repository contains a Jupyter notebook to visualize the corona cases (COVID-19) either per country of worldwide. The underlying dataset is provided by the [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/). 
 
 ![Bar Chart](assets/10_notebook_ready.png)
 
@@ -37,7 +37,7 @@ This repository contains a Jupyter notebook to visualize the corona cases (COVID
 11. Scroll down to see the visualization of the Corona cases either per country or worldwide<br/>
 ![Azure Notebook Ready](assets/10_notebook_ready.png)
 
-12. Repeat step 9 in order to update the underlying dataset - the dataset is currently updated once a day by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/)
+12. Repeat step 9 in order to refresh the underlying dataset - the dataset is currently updated once a day by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/)
 ![Azure Notebook Run](assets/08_notebook_run.png)
 
 ## Launch on your local computer
