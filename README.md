@@ -1,5 +1,5 @@
 # Corona cases
-This repository contains a Jupyter notebook to visualize the corona cases either per country of worldwide. The underlying data is provided by the [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/). 
+This repository contains a Jupyter notebook to visualize the corona cases (COVID-19) either per country of worldwide. The underlying data is provided by the [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/). 
 
 ![Bar Chart](assets/10_notebook_ready.png)
 
@@ -13,7 +13,7 @@ This repository contains a Jupyter notebook to visualize the corona cases either
 3. Click ```Import``` to configure the import from the GitHub repository into Azure Notebooks<br/>
 ![Azure Notebook Import](assets/02_notebook_welcome.png)
 
-4. Select the options accordingly to below screenshot and start the import by clicking ```Import```<br/>
+4. Select the options according to belows screenshot and start the import by clicking ```Import```<br/>
 ![Azure Notebook Import](assets/03_notebook_import.png)
 
 5. Configure the project setttings to install the required packages into your Jupyter notebook<br/>
